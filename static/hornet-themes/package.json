@@ -1,0 +1,32 @@
+{
+  "name": "hornet-themes-intranet",
+  "version": "5.1.0",
+  "license": "CECILL-2.1",
+  "description": "Thème Hornet.js",
+  "bugs": {
+    "url": "https://github.com/diplomatiegouvfr/hornet-themes-intranet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diplomatiegouvfr/hornet-themes-intranet.git"
+  },
+  "appDependencies": {
+    "knacss": "6.0.7"
+  },
+  "devDependencies": {
+    "express": "4.15.5",
+    "serve-index": "1.8.0",
+    "serve-static": "1.11.1"
+  },
+  "author": "MEAE - Ministère de l'Europe et des Affaires étrangères",
+  "____HORNET-BUILDER____DO_NOT_MODIFY_THIS_OBJECT____": {
+    "current": "2dccc7dbf530e62846636e77823b7802f37c62a5",
+    "history": {
+      "2dccc7dbf530e62846636e77823b7802f37c62a5": {
+        "version": "5.1.0",
+        "date": "2017-10-12T13:41:45.509Z",
+        "deps": {}
+      }
+    }
+  }
+}

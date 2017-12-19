@@ -1,0 +1,41 @@
+{
+  "contextPath": "hornet-showroom-online",
+  "welcomePage": "/accueil",
+  "fullSpa": {
+    "enabled": true,
+    "host": "http://localhost/",
+    "name": "applitutoriel-service",
+    "staticPath": "/static"
+   },
+  "services": {
+    "host": "http://localhost/",
+    "name": "applitutoriel-service"
+  },
+  "themeName": "hornet-themes",
+  "localeI18n": {
+    "locale": "fr-FR",
+    "lang": "fr"
+  },
+  "logClient": {
+    "remote": false,
+    "level": "DEBUG",
+    "appenders": [
+      {
+        "type": "BrowserConsole",
+        "layout": {
+          "type": "THIN"
+        }
+      },
+      {
+        "type": "Ajax",
+        "layout": {
+          "type": "BASIC"
+        },
+        "threshold": 100,
+        "timeout": 3000,
+        "url": "/log"
+      }
+    ]
+  },
+   "themeUrl": "/hornet-showroom-online/static/hornet-themes"
+}
