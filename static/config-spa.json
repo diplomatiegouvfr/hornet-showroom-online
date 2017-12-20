@@ -1,5 +1,5 @@
 {
-  "contextPath": "hornet-showroom-online/",
+  "contextPath": "hornet-showroom-online",
   "welcomePage": "/accueil",
   "fullSpa": {
     "enabled": true,
