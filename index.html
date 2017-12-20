@@ -53,17 +53,17 @@
             loadJsonAsynchronously(function (response) {
                 messages = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static/messages-fr-FR.json');
+            }, '/hornet-showroom-online/static-5.1.0-PUB/messages-fr-FR.json');
 
             loadJsonAsynchronously(function (response) {
                 menuItems = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static/navigation.json');
+            }, '/hornet-showroom-online/static-5.1.0-PUB/navigation.json');
 
             loadJsonAsynchronously(function (response) {
                 config = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static/config-spa.json');
+            }, '/hornet-showroom-online/static-5.1.0-PUB/config-spa.json');
 
             function buildConfigurationAndLoadScript() {
                 if (!messages || !menuItems || !config) {
@@ -105,12 +105,12 @@
 
   		var themeUrl = config.themeUrl;
 
-                loadFileInDom("/hornet-showroom-online/static/img/logo.png", "icon");
-                loadFileInDom("/hornet-showroom-online/static/hornet-themes/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static/css/codemirror.css", "css");
-	        loadFileInDom("/hornet-showroom-online/static/css/github.css","css");
-                loadFileInDom("/hornet-showroom-online/static/js/client.js", "js", "body");
+                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/img/logo.png", "icon");
+                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/hornet-themes/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/codemirror.css", "css");
+	        loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/github.css","css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/js/client.js", "js", "body");
             }
 
         }(this));
