@@ -5,7 +5,7 @@
     "enabled": true,
     "host": "http://localhost/",
     "name": "applitutoriel-service",
-    "staticPath": "/static"
+    "staticPath": "/static-5.1.0-PUB"
    },
   "services": {
     "host": "http://localhost/",
@@ -37,5 +37,5 @@
       }
     ]
   },
-   "themeUrl": "/hornet-showroom-online/static/hornet-themes"
+   "themeUrl": "/hornet-showroom-online/static-5.1.0-PUB/hornet-themes"
 }
