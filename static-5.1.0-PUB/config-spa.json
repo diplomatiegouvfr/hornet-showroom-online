@@ -1,6 +1,15 @@
 {
   "contextPath": "hornet-showroom-online",
   "welcomePage": "/accueil",
+  "communityLink": {
+    "git": {
+      "hubGen": "https://github.com/diplomatiegouvfr",
+      "hubDoc": "https://github.com/diplomatiegouvfr/hornet-man"
+    },
+    "twitter": "https://twitter.com/FrameworkHornet",
+    "facebook": ""
+  },
+
   "fullSpa": {
     "enabled": true,
     "host": "http://localhost/",
