@@ -4,9 +4,7 @@
   "communityLink": {
     "git": {
       "hubGen": "https://github.com/diplomatiegouvfr",
-      "hubDoc": "https://github.com/diplomatiegouvfr/hornet-man",
-      "labGen": "https://gitlab01.devng.diplomatie.gouv.fr/gitlab/",
-      "labDoc": "https://gitlab01.devng.diplomatie.gouv.fr/gitlab/hornet.js"
+      "hubDoc": "https://github.com/diplomatiegouvfr/hornet-man"
     },
     "twitter": "https://twitter.com/FrameworkHornet",
     "facebook": ""
