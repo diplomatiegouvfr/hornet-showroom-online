@@ -24,8 +24,7 @@
                 var fileref = document.createElement('script');
                 fileref.setAttribute("type", "text/javascript");
                 fileref.setAttribute("src", filename);
-            }
-            else if (filetype == "css") {
+            } else if (filetype == "css") {
                 var fileref = document.createElement("link");
                 fileref.setAttribute("rel", "stylesheet");
                 fileref.setAttribute("type", "text/css");
@@ -41,10 +40,8 @@
                 document.getElementsByTagName(mountingPoint)[0].appendChild(fileref);
             }
         }
-
     </script>
     <script type="text/javascript">
-
         (function (root) {
             var messages = undefined;
             var menuItems = undefined;
@@ -53,17 +50,17 @@
             loadJsonAsynchronously(function (response) {
                 messages = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.0-PUB/messages-fr-FR.json');
+            }, '/hornet-showroom-online/static-5.1.1-PUB/messages-fr-FR.json');
 
             loadJsonAsynchronously(function (response) {
                 menuItems = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.0-PUB/navigation.json');
+            }, '/hornet-showroom-online/static-5.1.1-PUB/navigation.json');
 
             loadJsonAsynchronously(function (response) {
                 config = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.0-PUB/config-spa.json');
+            }, '/hornet-showroom-online/static-5.1.1-PUB/config-spa.json');
 
             function buildConfigurationAndLoadScript() {
                 if (!messages || !menuItems || !config) {
@@ -95,22 +92,20 @@
                 };
 
 
-		root.AppSharedProps = {
-		    "appName":"hornet-showroom-online",
-                    "appVersion":"5.1.0",
-                    "appDescription":"Application documentaire du Framework hornet",
-                    "appAuthor":"MEAE - Ministère de l'Europe et des Affaires étrangères",
-                    "welcomePageUrl":"\u002Faccueil"
+                root.AppSharedProps = {
+                    "appName": "hornet-showroom-online",
+                    "appVersion": "5.1.1",
+                    "appDescription": "Application documentaire du Framework hornet",
+                    "appAuthor": "MEAE - Ministère de l'Europe et des Affaires étrangères",
+                    "welcomePageUrl": "\u002Faccueil"
                 };
 
-  		var themeUrl = config.themeUrl;
-
-                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/img/logo.png", "icon");
-                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/hornet-themes/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/codemirror.css", "css");
-	        loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/css/github.css","css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.0-PUB/js/client.js", "js", "body");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/img/logo.png", "icon");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/hornet-themes/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/codemirror.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/github.css", "css");
+                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/js/client.js", "js", "body");
             }
 
         }(this));
@@ -118,7 +113,7 @@
 </head>
 
 <body>
-<div id="app"></div>
+    <div id="app"></div>
 </body>
 
 </html>
