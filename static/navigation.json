@@ -790,14 +790,6 @@
                   "visibleDansPlan": true
                 },
                 {
-                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Javascript/10-Demonstration.md",
-                  "text": "Demonstration ",
-                  "title": "10-Demonstration",
-                  "url": "/composant/page/hornet-js/tutoriel/javascript/demonstration",
-                  "visibleDansMenu": true,
-                  "visibleDansPlan": true
-                },
-                {
                   "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Javascript/11-Best-practices-Javascript.md",
                   "text": "Best practices Javascript ",
                   "title": "11-Best-practices-Javascript",
@@ -1644,14 +1636,6 @@
           "visibleDansMenu": true,
           "visibleDansPlan": true,
           "submenu": [
-            {
-              "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS-LITE/05-Tutoriel/Démonstration.md",
-              "text": "Démonstration ",
-              "title": "Démonstration",
-              "url": "/composant/page/hornet-js-lite/tutoriel/demonstration",
-              "visibleDansMenu": true,
-              "visibleDansPlan": true
-            },
             {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS-LITE/05-Tutoriel/Modélisation avec papyrus.md",
               "text": "Modélisation avec papyrus ",
