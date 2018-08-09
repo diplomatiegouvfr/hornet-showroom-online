@@ -50,17 +50,17 @@
             loadJsonAsynchronously(function (response) {
                 messages = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.1-PUB/messages-fr-FR.json');
+            }, '/hornet-showroom-online/static/messages-fr-FR.json');
 
             loadJsonAsynchronously(function (response) {
                 menuItems = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.1-PUB/navigation.json');
+            }, '/hornet-showroom-online/static/navigation.json');
 
             loadJsonAsynchronously(function (response) {
                 config = JSON.parse(response);
                 buildConfigurationAndLoadScript();
-            }, '/hornet-showroom-online/static-5.1.1-PUB/config-spa.json');
+            }, '/hornet-showroom-online/static/config-spa.json');
 
             function buildConfigurationAndLoadScript() {
                 if (!messages || !menuItems || !config) {
@@ -94,18 +94,18 @@
 
                 root.AppSharedProps = {
                     "appName": "hornet-showroom-online",
-                    "appVersion": "5.1.1",
+                    "appVersion": "5.2.0",
                     "appDescription": "Application documentaire du Framework hornet",
                     "appAuthor": "MEAE - Ministère de l'Europe et des Affaires étrangères",
                     "welcomePageUrl": "\u002Faccueil"
                 };
 
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/img/logo.png", "icon");
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/hornet-themes/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/theme.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/codemirror.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/css/github.css", "css");
-                loadFileInDom("/hornet-showroom-online/static-5.1.1-PUB/js/client.js", "js", "body");
+                loadFileInDom("/hornet-showroom-online/static/img/logo.png", "icon");
+                loadFileInDom("/hornet-showroom-online/static/hornet-themes/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static/css/theme.css", "css");
+                loadFileInDom("/hornet-showroom-online/static/css/codemirror.css", "css");
+                loadFileInDom("/hornet-showroom-online/static/css/github.css", "css");
+                loadFileInDom("/hornet-showroom-online/static/js/client.js", "js", "body");
             }
 
         }(this));
