@@ -5,5 +5,6 @@ Ce document énumère les différentes étapes à suivre pour livrer le hornet-s
 3. Remplacer le contenu du dossier static de hornet-showroom-online par celui du static de hornet-showroom généré suite au hb prepare-package.
 4. Dans le dossier static de hornet-showroom-online, renommer le dossier hornet-themes-intranet par hornet-themes.
 5. Vérifier dans les chunks que les liens des ressources sont corrects, au besoin corriger (dans les chunks, les ressources sont importées via */hornetshowroom/static-x-x-x/*, remplacer-les par /hornet-showroom-online/static - remplacer les hornet-showroom-online/static/-x.x.x par hornet-showroom-online/static/).
-6. Faire un merge de messages-fr-FR.json avec hornet-messages-components du hornet-js-core.
-7. Supprimer les liens vers les adresses IP internes (Page de démonstration).
+6  Modifier dans index.html le contextPath "hornetshowroom-spa" en "hornet-showroom-online"
+7. Faire un merge de messages-fr-FR.json avec hornet-messages-components du hornet-js-core.
+8. Supprimer les liens vers les adresses IP internes (Page de démonstration).
