@@ -2036,7 +2036,7 @@ ul.is-unstyled, ul.unstyled {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2171,7 +2171,7 @@ label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2279,7 +2279,7 @@ label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2367,7 +2367,7 @@ label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2473,7 +2473,7 @@ button.button-info-accessibilite-button img {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2607,7 +2607,7 @@ button.button-info-accessibilite-button img {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2704,6 +2704,10 @@ button.button-info-accessibilite-button img {
     outline: none;
     box-shadow: 0px 0px 0px 1px #0061ff;
 }
+
+.abstractfield-container.readonly .autocomplete-content {
+    cursor: pointer;
+}
 /**
  * Copyright ou © ou Copr. Ministère de l'Europe et des Affaires étrangères (2017)
  * <p/>
@@ -2780,7 +2784,7 @@ button.button-info-accessibilite-button img {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -2930,7 +2934,7 @@ ul.fil-ariane {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3015,7 +3019,7 @@ ul.fil-ariane {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3187,7 +3191,7 @@ button.toggler:hover, button.toggler:focus, .hornet-button:hover, .hornet-button
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3328,7 +3332,7 @@ table>tbody>tr>td {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3510,7 +3514,7 @@ table>tbody>tr>td {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3604,7 +3608,7 @@ table>tbody>tr>td {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -3684,7 +3688,7 @@ table>tbody>tr>td {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4048,7 +4052,7 @@ span.dropdown-hidden-label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4215,7 +4219,7 @@ li.accordion-header.accordion-selected {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4300,7 +4304,7 @@ li.accordion-header.accordion-selected {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4396,7 +4400,7 @@ li.accordion-header.accordion-selected {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4565,7 +4569,7 @@ ul.footer-links li:last-child:after {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -4618,6 +4622,10 @@ p.discret {
 /**
 checkbox
 ****/
+
+.checkbox-container.readonly span.checkbox-material{
+    cursor: auto;
+}
 
 .checkbox-container {
     padding: 0em 1.25em;
@@ -4704,10 +4712,14 @@ label.checkbox-content input:focus+.checkbox-material .check {
     color: #7a7a7a;
 }
 
-.checkbox-material .check.readonly {
+.checkbox-material .check.readonly, .checkbox-material .check.disabled {
     background-color: rgb(235, 235, 228);
     color: #7a7a7a;
     cursor: default;
+}
+
+.abstractfield-container.readonly .label-container .label-content .label-required, .form.clear.readonly .form-titles .discret {
+    display:none;
 }
 
 .checkbox-content input[type=checkbox]:focus+.checkbox-material .check:after {
@@ -4754,6 +4766,10 @@ label.checkbox-content input:focus+.checkbox-material .check {
 .checkbox-content input[type=checkbox]:not(:checked)+.checkbox-material .check.has-error {
     border-color:#e6151d;
     background-color: #fed8da;
+}
+
+.label-container.label-row-inline.label-margin-right {
+    margin-right: 2.125em;
 }
 
 @-webkit-keyframes checkbox-on {
@@ -5012,7 +5028,7 @@ label.checkbox-content input:focus+.checkbox-material .check {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -5262,7 +5278,7 @@ a.header-link:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -5367,7 +5383,7 @@ button.button-action:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -5482,7 +5498,7 @@ button.button-action:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -5542,7 +5558,6 @@ input.center {
 
 .input-reset,
 .calendar-container .input-reset {
-    position: absolute;
     margin: 0.4375em -2.5em;
     cursor: pointer;
     opacity: 1;
@@ -5581,6 +5596,7 @@ input.center {
 
 .calendar-container .input-reset {
     margin: 0.8125em -2.5em;
+    position: absolute;
 }
 /**
  * Copyright ou © ou Copr. Ministère de l'Europe et des Affaires étrangères (2017)
@@ -5658,7 +5674,7 @@ input.center {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -5802,7 +5818,7 @@ input.center {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -6307,7 +6323,7 @@ li.sub-nav-item ul {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -6496,7 +6512,7 @@ div[role=alertdialog] {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -6606,7 +6622,7 @@ a.hornet-button.nfe-button {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -6978,7 +6994,7 @@ a.hornet-button.nfe-button {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -7066,7 +7082,7 @@ ul.pap ul {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -7132,6 +7148,10 @@ ul.pap ul {
 
 li.radio-inline label {
     margin-top: 0.3em;
+}
+
+.abstractfield-container.readonly label.radio-label {
+    cursor: default;
 }
 /**
  * Copyright ou © ou Copr. Ministère de l'Europe et des Affaires étrangères (2017)
@@ -7209,7 +7229,7 @@ li.radio-inline label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -8675,7 +8695,7 @@ li.radio-inline label {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -8825,7 +8845,7 @@ select:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -8992,7 +9012,7 @@ select:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -9183,7 +9203,7 @@ select:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -9321,7 +9341,16 @@ tr.datatable-line-selected td {
     background: #e2eff7;
 }
 
-table>thead>tr>th,
+table>thead>tr>th {
+    height: 3.5em;
+    font-size: 0.8125em;
+    vertical-align: middle;
+    text-overflow: ellipsis;
+    margin-top: 0em;
+    line-height: 2.2;
+    font-family: "Roboto";
+}
+
 table>tbody>tr>td {
     height: 3.5em;
     overflow: hidden;
@@ -9481,10 +9510,15 @@ th {
 
 th div {
     text-overflow: ellipsis;
-    overflow: inherit;
+    overflow: hidden;
+    padding-right: 0.1em;
+    padding-left: 0.3em;
 }
 
-th,
+th {
+    padding: .3em .0em .3em .0em;
+}
+
 td {
     padding: .3em .1em .3em .8em;
 }
@@ -9958,7 +9992,7 @@ tr.datatable-line-selected td.datatable-cell-in-edition a img {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -10218,7 +10252,7 @@ li.tab {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -10245,7 +10279,8 @@ textarea:focus {
 }
 
 .textarea-reset {
-    margin: 0.75em -2.5625em;
+    display: inline-flex;
+    margin-top: 1.5em;
 }
 
 .textarea-reset-scrollbar {
@@ -10275,6 +10310,23 @@ textarea:focus {
 
 .textarea-unresizable {
     resize: none;
+}
+
+.textarea-container textarea[disabled] {
+    pointer-events: auto;
+}
+
+.textarea-reset-scrollbar {
+    position: relative;
+    top: 1em;
+}
+
+textarea{
+    padding-right: 2.5em;
+}
+
+.textarea-reset{
+    position: relative;
 }
 /**
  * Copyright ou © ou Copr. Ministère de l'Europe et des Affaires étrangères (2017)
@@ -10352,14 +10404,14 @@ textarea:focus {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
 
 .tooltip {
     margin-left: 1.125em;
-    position: relative;
+    position: absolute;
 }
 
 a:focus,
@@ -10512,7 +10564,7 @@ a:focus .tooltip-image {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -10635,7 +10687,7 @@ a:focus .tooltip-image {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -10785,7 +10837,7 @@ label.upload-content:not([readonly]):hover {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -10959,7 +11011,7 @@ label.upload-content:not([readonly]):hover {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */
@@ -11070,7 +11122,7 @@ label.upload-content:not([readonly]):hover {
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.0
+ * @version v5.2.2
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes.git
  * @license CECILL-2.1
  */

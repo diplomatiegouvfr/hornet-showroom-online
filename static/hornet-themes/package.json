@@ -1,6 +1,6 @@
 {
   "name": "hornet-themes-intranet",
-  "version": "5.2.0",
+  "version": "5.2.2",
   "license": "CECILL-2.1",
   "description": "Thème Hornet.js",
   "bugs": {
@@ -23,7 +23,7 @@
   },
   "author": "MEAE - Ministère de l'Europe et des Affaires étrangères",
   "dependencies": {
-    "hornet-js-builder": "^1.5.4"
+    "hornet-js-builder": "^1.6.0-20180927.153426-280"
   },
 
 
@@ -34,8 +34,8 @@
     "current": "2dccc7dbf530e62846636e77823b7802f37c62a5",
     "history": {
       "2dccc7dbf530e62846636e77823b7802f37c62a5": {
-        "version": "5.2.0",
-        "date": "2018-08-01T08:36:40.325Z",
+        "version": "5.2.2",
+        "date": "2018-10-08T09:51:11.866Z",
         "deps": {}
       }
     }

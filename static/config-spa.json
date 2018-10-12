@@ -1,5 +1,5 @@
 {
-    "contextPath": "hornet-showroom-online",
+    "contextPath": "hornetshowroom-spa",
     "welcomePage": "/accueil",
     "communityLink": {
         "git": {
@@ -11,7 +11,7 @@
         "twitter": "https://twitter.com/FrameworkHornet",
         "facebook": ""
     },
-    "themeName": "hornet-themes",
+    "themeName": "hornet-themes-intranet",
     "localeI18n": {
         "locale": "fr-FR",
         "lang": "fr"
@@ -31,6 +31,5 @@
     "fullSpa": {
         "enabled": true,
         "staticPath": "/static"
-    },
-    "themeUrl": "/hornet-showroom-online/static/hornet-themes"
+    }
 }

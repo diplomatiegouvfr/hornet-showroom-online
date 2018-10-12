@@ -1,3 +1,20 @@
+# hornet-themes-intranet 5.2.2
+
+- 51962ef FIX - correction style reset button textarea
+- 57499d8 FIX - [m69800] - Tooltip: Affichage d'une modale, focus automatique sur le 1er champ
+- df17bd5 FIX - evol css field readonly
+- 59ffab6 FIX - [m69800] - Tooltip: Affichage d'une modale, focus automatique sur le 1er champ
+- d179a3f FIX - [m0069798] - Form : Affichage des required sur un formulaire en lecture seule
+- f62c584 FIX - [m69844] - TextareaField : bouton reset broken au scroll dans Modal
+- c3447a7 FIX - [m69866] - TextareaField CSS: en disabled la scrollbar n'est pas accessible
+
+# hornet-themes-inranet-5.2.1
+
+- e328391 - FIX [m69567]: Form : Dimensionnement des popins : problème d'affichage de certains composants.
+- 9ca03bf - FIX - Table : css header column des tableaux
+- 257416d - FIX - CheckboxField :  style checkbox disabled
+
+
 #hornet-themes-inranet-5.2.0
 
 - FIX  - Body : Ajout font-family "NotoSanUi-Regular" par defaut sur body

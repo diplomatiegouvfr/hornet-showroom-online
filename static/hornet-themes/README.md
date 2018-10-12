@@ -23,7 +23,7 @@ $ hb package
 
 Le livrable est disponible dans le répertoire :
 
-`target\hornet-themes-5.1.X.zip`
+`target\hornet-themes-5.2.X.zip`
 
 ## Intégration dans une application Hornet.js
 
