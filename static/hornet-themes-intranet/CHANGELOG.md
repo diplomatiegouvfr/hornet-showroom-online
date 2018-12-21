@@ -1,3 +1,8 @@
+# hornet-themes-intranet 5.2.4
+
+- 07fe877 FIX - label tab long : la croix de suppression passe au dessus
+- 34b04b9 FIX[ - [m70907]: problème instabilité hover tabs
+
 # hornet-themes-intranet 5.2.2
 
 - 51962ef FIX - correction style reset button textarea

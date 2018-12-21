@@ -78,7 +78,7 @@ L'arborescence obtenue doit ressembler à ceci :
 ```
 [DocumentRoot ou Alias]
 	/hornet
-		/5.1.X
+		/5.2.X
 			/theme_name
 ```
 
