@@ -147,6 +147,10 @@
     "tab": "Onglet {tabTitle}"
   },
   "table": {
+    "linesUnselected":"Tout désélectionné",
+    "linesSelected":"Tout sélectionné",
+    "lineUnselected": "Ligne désélectionnée",
+    "lineSelected":"Ligne sélectionnée",
     "pager": {
       "dropdownTitle": "Nombre d'éléments du {summary}",
       "inputLabel": "Numéro de la page affichée du {summary}",

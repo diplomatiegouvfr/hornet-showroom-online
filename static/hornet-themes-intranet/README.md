@@ -23,7 +23,7 @@ $ hb package
 
 Le livrable est disponible dans le répertoire :
 
-`target\hornet-themes-5.2.X.zip`
+`target\hornet-themes-5.3.X.zip`
 
 ## Intégration dans une application Hornet.js
 
@@ -78,7 +78,7 @@ L'arborescence obtenue doit ressembler à ceci :
 ```
 [DocumentRoot ou Alias]
 	/hornet
-		/5.2.X
+		/5.3.X
 			/theme_name
 ```
 

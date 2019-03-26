@@ -1,3 +1,18 @@
+# hornet-themes-intranet 5.3.0
+
+- 8ccb34e EVOL - [s362] - AutocompleteMultiple : mise en place du composant Chips
+- e110931 FIX - [m73198] - Correction du style des titres de messages d'erreur lors des validations
+- adc1df8 FIX - AutocompleteMultiple : Ajout des borders sur le dropdown des items
+- df0f817 FIX - AutocompleteMultiple : Suppression de la border top sur le dropdown des items
+- 0d9fb6b FIX - AutocompleteMultiple : Ajout du comportement focus sur le multifield container
+- ef9cdd3 FIX - [t1192] - corrections style diverses
+- 948772b FIX - AutocompleteMultiple : Ajout de la position absolute sur le dropdown des items
+- 041b201 EVOL - [S249] - Switch : Relecture du style du composant switch
+- 4877110 EVOL - [s249] - Switch : Mise à jour du style du composant switch
+- 30f2e12 FIX - [s422] - Accessibilite - upload file field
+- 8a4af4a FIX - [s426] - Accessibilite: message alert ligne selectionnée ou déselectionnée dans le table
+- 2a1d13c PROJ - AutocompleteMultiple : Adaptation css input multifield
+
 # hornet-themes-intranet 5.2.4
 
 - 07fe877 FIX - label tab long : la croix de suppression passe au dessus

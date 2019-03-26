@@ -73,7 +73,7 @@
  * hornet-themes-intranet - Thème Hornet.js
  *
  * @author MEAE - Ministère de l'Europe et des Affaires étrangères
- * @version v5.2.4
+ * @version v5.3.0
  * @link git+https://github.com/diplomatiegouvfr/hornet-themes-intranet.git
  * @license CECILL-2.1
  */

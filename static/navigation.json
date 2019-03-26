@@ -170,6 +170,14 @@
                   "url": "/composant/page/hornet-js/composants/buttons/buttoninfoaccessibilite",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/03-Buttons/04-Chips.md",
+                  "text": "Chips ",
+                  "title": "04-Chips",
+                  "url": "/composant/page/hornet-js/composants/buttons/chips",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
                 }
               ]
             },
@@ -410,6 +418,14 @@
                   "url": "/composant/page/hornet-js/composants/layouts/tabs",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/09-Layouts/TabsLite.md",
+                  "text": "TabsLite ",
+                  "title": "TabsLite",
+                  "url": "/composant/page/hornet-js/composants/layouts/tabslite",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
                 }
               ]
             },
@@ -448,6 +464,14 @@
                   "text": "SelectField ",
                   "title": "SelectField",
                   "url": "/composant/page/hornet-js/composants/list_group/selectfield",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/10-List group/SwitchField.md",
+                  "text": "SwitchField ",
+                  "title": "SwitchField",
+                  "url": "/composant/page/hornet-js/composants/list_group/switchfield",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 }
@@ -640,6 +664,14 @@
               "visibleDansPlan": true
             },
             {
+              "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/04-Conception/Bonnes-Pratiques-Securite.md",
+              "text": "Bonnes Pratiques Securite ",
+              "title": "Bonnes-Pratiques-Securite",
+              "url": "/composant/page/hornet-js/conception/bonnes-pratiques-securite",
+              "visibleDansMenu": true,
+              "visibleDansPlan": true
+            },
+            {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/04-Conception/Paliers-techniques.md",
               "text": "Paliers techniques ",
               "title": "Paliers-techniques",
@@ -794,6 +826,14 @@
                   "text": "Mailer ",
                   "title": "17-Mailer",
                   "url": "/composant/page/hornet-js/tutoriel/javascript/mailer",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Javascript/18-logger.md",
+                  "text": "logger ",
+                  "title": "18-logger",
+                  "url": "/composant/page/hornet-js/tutoriel/javascript/logger",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 },
@@ -1143,6 +1183,14 @@
                   "url": "/composant/page/hornet-js/composants/buttons/buttoninfoaccessibilite",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/03-Buttons/04-Chips.md",
+                  "text": "Chips ",
+                  "title": "04-Chips",
+                  "url": "/composant/page/hornet-js/composants/buttons/chips",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
                 }
               ]
             },
@@ -1383,6 +1431,14 @@
                   "url": "/composant/page/hornet-js/composants/layouts/tabs",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/09-Layouts/TabsLite.md",
+                  "text": "TabsLite ",
+                  "title": "TabsLite",
+                  "url": "/composant/page/hornet-js/composants/layouts/tabslite",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
                 }
               ]
             },
@@ -1421,6 +1477,14 @@
                   "text": "SelectField ",
                   "title": "SelectField",
                   "url": "/composant/page/hornet-js/composants/list_group/selectfield",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/10-List group/SwitchField.md",
+                  "text": "SwitchField ",
+                  "title": "SwitchField",
+                  "url": "/composant/page/hornet-js/composants/list_group/switchfield",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 }
@@ -1787,7 +1851,22 @@
           "title": "hornet-js-builder",
           "visibleDansMenu": true,
           "visibleDansPlan": true,
-          "url": "/composant/page/hornet-js-builder/readme"
+          "submenu": [
+            {
+              "text": "README ",
+              "title": "README",
+              "url": "/composant/page/hornet-js-builder/readme",
+              "visibleDansMenu": true,
+              "visibleDansPlan": true
+            },
+            {
+              "text": "UPGRADING ",
+              "title": "UPGRADING",
+              "url": "/composant/page/hornet-js-builder/upgrading",
+              "visibleDansMenu": true,
+              "visibleDansPlan": true
+            }
+          ]
         },
         {
           "text": "hornet-js-gc-monitor",
