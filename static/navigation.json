@@ -125,15 +125,6 @@
               "visibleDansPlan": true
             },
             {
-              "text": "Pictogrammes ",
-              "title": "Pictogrammes",
-              "url": "/pictogrammes",
-              "visibleDansMenu": true,
-              "visibleDansPlan": true,
-              "position": 2,
-              "submenu": []
-            },
-            {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/02-Propriétés-Hornet-Component.md",
               "text": "Propriétés Hornet Component ",
               "title": "02-Propriétés-Hornet-Component",
@@ -208,6 +199,14 @@
                   "text": "Spinner ",
                   "title": "Spinner",
                   "url": "/composant/page/hornet-js/composants/commons/spinner",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/04-Commons/Svg-sprites.md",
+                  "text": "Svg sprites ",
+                  "title": "Svg-sprites",
+                  "url": "/composant/page/hornet-js/composants/commons/svg-sprites",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 },
@@ -672,6 +671,14 @@
               "visibleDansPlan": true
             },
             {
+              "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/04-Conception/Bonnes-pratiques-CSS.md",
+              "text": "Bonnes pratiques CSS ",
+              "title": "Bonnes-pratiques-CSS",
+              "url": "/composant/page/hornet-js/conception/bonnes-pratiques-css",
+              "visibleDansMenu": true,
+              "visibleDansPlan": true
+            },
+            {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/04-Conception/Paliers-techniques.md",
               "text": "Paliers techniques ",
               "title": "Paliers-techniques",
@@ -838,10 +845,34 @@
                   "visibleDansPlan": true
                 },
                 {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Javascript/19-Test-end-to-end.md",
+                  "text": "Test end to end ",
+                  "title": "19-Test-end-to-end",
+                  "url": "/composant/page/hornet-js/tutoriel/javascript/test-end-to-end",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
                   "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Javascript/Feature-flipping.md",
                   "text": "Feature flipping ",
                   "title": "Feature-flipping",
                   "url": "/composant/page/hornet-js/tutoriel/javascript/feature-flipping",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                }
+              ]
+            },
+            {
+              "text": "Scss ",
+              "title": "Scss",
+              "visibleDansMenu": true,
+              "visibleDansPlan": true,
+              "submenu": [
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/05-Tutoriel/Scss/Personnalisation-theme-avec-sass.md",
+                  "text": "Personnalisation theme avec sass ",
+                  "title": "Personnalisation-theme-avec-sass",
+                  "url": "/composant/page/hornet-js/tutoriel/scss/personnalisation-theme-avec-sass",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 }
@@ -1005,13 +1036,6 @@
               "url": "/composant/page/applitutoriel-js/readme"
             },
             {
-              "text": "hornet-themes-intranet",
-              "title": "hornet-themes-intranet",
-              "visibleDansMenu": true,
-              "visibleDansPlan": true,
-              "url": "/composant/page/hornet-themes-intranet/readme"
-            },
-            {
               "text": "hornet-js-gc-monitor",
               "title": "hornet-js-gc-monitor",
               "visibleDansMenu": true,
@@ -1138,15 +1162,6 @@
               "visibleDansPlan": true
             },
             {
-              "text": "Pictogrammes ",
-              "title": "Pictogrammes",
-              "url": "/pictogrammes",
-              "visibleDansMenu": true,
-              "visibleDansPlan": true,
-              "position": 2,
-              "submenu": []
-            },
-            {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/02-Propriétés-Hornet-Component.md",
               "text": "Propriétés Hornet Component ",
               "title": "02-Propriétés-Hornet-Component",
@@ -1221,6 +1236,14 @@
                   "text": "Spinner ",
                   "title": "Spinner",
                   "url": "/composant/page/hornet-js/composants/commons/spinner",
+                  "visibleDansMenu": true,
+                  "visibleDansPlan": true
+                },
+                {
+                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS/03-Composants/04-Commons/Svg-sprites.md",
+                  "text": "Svg sprites ",
+                  "title": "Svg-sprites",
+                  "url": "/composant/page/hornet-js/composants/commons/svg-sprites",
                   "visibleDansMenu": true,
                   "visibleDansPlan": true
                 },
@@ -1635,22 +1658,6 @@
           "visibleDansPlan": true,
           "submenu": [
             {
-              "text": "Modélisation Papyrus ",
-              "title": "01-Modélisation Papyrus",
-              "visibleDansMenu": true,
-              "visibleDansPlan": true,
-              "submenu": [
-                {
-                  "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS-LITE/05-Tutoriel/01-Modélisation Papyrus/01-Modélisation avec papyrus.md",
-                  "text": "Modélisation avec papyrus ",
-                  "title": "01-Modélisation avec papyrus",
-                  "url": "/composant/page/hornet-js-lite/tutoriel/modelisation_papyrus/modelisation_avec_papyrus",
-                  "visibleDansMenu": true,
-                  "visibleDansPlan": true
-                }
-              ]
-            },
-            {
               "gitlabUrl": "/hornet-js-man/blob/develop/docs/HORNET-JS-LITE/05-Tutoriel/Démonstration.md",
               "text": "Démonstration ",
               "title": "Démonstration",
@@ -1809,12 +1816,13 @@
               "visibleDansPlan": true,
               "url": "/composant/page/hornet-js-core/readme"
             },
+            {},
             {
-              "text": "hornet-js-database",
-              "title": "hornet-js-database",
+              "text": "hornet-js-logger",
+              "title": "hornet-js-logger",
               "visibleDansMenu": true,
               "visibleDansPlan": true,
-              "url": "/composant/page/hornet-js-database/readme"
+              "url": "/composant/page/hornet-js-logger/readme"
             },
             {
               "text": "hornet-js-passport",
@@ -1874,13 +1882,6 @@
           "visibleDansMenu": true,
           "visibleDansPlan": true,
           "url": "/composant/page/hornet-js-gc-monitor/readme"
-        },
-        {
-          "text": "hornet-themes-intranet",
-          "title": "hornet-themes-intranet",
-          "visibleDansMenu": true,
-          "visibleDansPlan": true,
-          "url": "/composant/page/hornet-themes-intranet/readme"
         },
         {
           "text": "generator-hornet-js",
